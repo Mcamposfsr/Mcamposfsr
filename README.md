@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou Matheus Campos
+# 📍 Matheus Campos – Desenvolvedor Full Stack
 
 🎓 Estudante de Ciência da Computação (2022.1 - atual)  
 💻 Desenvolvedor Full Stack em formação  
-📚 Estudando: React, Node.js, Tailwind, JavaScript, Git
+🧠 Estudando: React, Node.js, Tailwind, JavaScript, Git
 
-🚀 Buscando oportunidades para crescer como desenvolvedor  
-🎯 Foco em criar aplicações reais e resolver problemas com código
+💡 Buscando oportunidades para crescer como desenvolvedor  
+🚀 Foco em criar aplicações reais e resolver problemas com código
 
 ---
 
@@ -35,4 +35,4 @@
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+📌 Fico à disposição para conexões e colaborações.
